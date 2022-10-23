@@ -15,4 +15,11 @@
 **Solo faltaria ejecutar el archivo ErnesSpam.py y a spamear!**
 --------------------------
 
+## Mejoras
+
+**Mejorada interfaz grafica mas amigable y facil de usar.**
+**Spam mejorado y mas rapido.**
+
 # Imagenes
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1033621046449938452/unknown.png?width=311&height=346">
