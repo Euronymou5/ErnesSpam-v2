@@ -13,12 +13,15 @@
 **Despues de la instalacion abriremos la consola de Windows y escribiremos: pip install pyautogui**
 
 **Solo faltaria ejecutar el archivo ErnesSpam.py y a spamear!**
+
 --------------------------
 
 ## Mejoras
 
 **Mejorada interfaz grafica mas amigable y facil de usar.**
 **Spam mejorado y mas rapido.**
+
+------------------------------------
 
 # Imagenes
 
