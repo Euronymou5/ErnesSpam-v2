@@ -1,7 +1,7 @@
 # ErnesSpam
 **Un spammer para Whatsapp hecho en python**
 
-**¿Que es ErneSpam?: ErnesSpam es un programa hecho en python para hacer spam (raidear o nukear) un chat de Whatsapp.**
+**¿Que es ErnesSpam?:** *ErnesSpam es un programa hecho en python para hacer spam (raidear o nukear) un chat de Whatsapp.*
 
 # Instalacion
 **Actualmente solo se ha probado en Windows**
