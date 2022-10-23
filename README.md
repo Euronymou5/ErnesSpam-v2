@@ -19,6 +19,7 @@
 ## Mejoras
 
 **Mejorada interfaz grafica mas amigable y facil de usar.**
+
 **Spam mejorado y mas rapido.**
 
 ------------------------------------
